@@ -14,6 +14,6 @@ By the end of my MSc in Demography, I started working as a Research Assitant at 
 
 I enjoy hikking and traveling to national parks. Particularly, I love the [Cerrado](https://en.wikipedia.org/wiki/Cerrado) (aka, the Brazilian Savanna) and all of its features, its animals, trees and delicious fruits (everyone should try [baru nut](https://en.wikipedia.org/wiki/Baru_seed) and [pequi](https://en.wikipedia.org/wiki/Caryocar_brasiliense) at least once in a lifetime!).
 
-I am also a football fan and I try to play it every single week. I am a [Vasco da Gama](https://vasco.com.br/site/) supporter (the team with the most beaultiful history of football!
+I am also a football fan and I try to play it every single week. I am a [Vasco da Gama](https://vasco.com.br/site/) supporter (the team with the most beaultiful history of football!) and a fan of South American football in general. 
 
 
