@@ -22,6 +22,8 @@ description: Hi there! I am José Henrique, South American, Brazilian, Researche
 navbar-links:
   About Me: "aboutme"
   CV: "academic_cv"
+  R:
+    - fertestr: "fertestr_package"
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
 
