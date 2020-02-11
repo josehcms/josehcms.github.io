@@ -8,7 +8,7 @@ I was born in Brasília, Brazil's capital city, and moved to Campinas, São Paul
 
 After an amazing experience as an exchange student at [The University of Melbourne](https://www.unimelb.edu.au/) in Australia, I decided to pursuit a career within the applied social sciences. Then, after graduating in Electrical Engineering by the end of 2016, I started a Masters in Demography at the [Department of Demography](https://www.ifch.unicamp.br/ifch/en/pos/demografia/institutional) of the [Institute of Phylosophy and the Humanities](https://www.ifch.unicamp.br/ifch/) of UNICAMP.
 
-By the end of my MSc in Demography, I started working as a Research Assitant at the [International Policy Centre for the Inclusive Growth](https://ipcig.org/) and came back to Brasília.
+By the end of my MSc in Demography, October 2018, I started working as a Research Assitant at the [International Policy Centre for the Inclusive Growth](https://ipcig.org/) and came back to Brasília.
 
 ### some more
 
