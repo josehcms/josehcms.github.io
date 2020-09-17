@@ -7,7 +7,7 @@ subtitle: Academic and Professional Details
 ## Academic Trajectory
 I was born in Brasília, Brazil's capital city, and moved to Campinas, São Paulo by 2011 to study Electrical Engineering at the [School of Electrical and Computer Engineering](https://www.fee.unicamp.br/?language=en) of [UNICAMP](https://www.unicamp.br/unicamp/english). 
 
-After achieving my B.Sc degree in Electrical Engineering by the end of 2016, I started a Masters in Demography at the [Department of Demography](https://www.ifch.unicamp.br/ifch/en/pos/demografia/institutional) of the [Institute of Phylosophy and the Humanities](https://www.ifch.unicamp.br/ifch/) of [UNICAMP](https://www.unicamp.br/unicamp/english).
+After achieving my B.Sc degree in Electrical Engineering by December 2016, I started a Masters in Demography at the [Department of Demography](https://www.ifch.unicamp.br/ifch/en/pos/demografia/institutional) of the [Institute of Phylosophy and the Humanities](https://www.ifch.unicamp.br/ifch/) of [UNICAMP](https://www.unicamp.br/unicamp/english). I defended my M.Sc thesis on [Fertility and Educational Pairings in Brazil](http://repositorio.unicamp.br/jspui/handle/REPOSIP/333826) in February 2019.
 
 ## Professional Career
 From October 2018 until June 2020 I worked as a Demography and Statistical Methods Researcher at the [International Policy Centre for the Inclusive Growth](https://ipcig.org/). 
