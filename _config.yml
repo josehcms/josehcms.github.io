@@ -22,8 +22,13 @@ description: South American, Brazilian, Researcher and Demographer
 navbar-links:
   About Me: "aboutme"
   CV: "academic_cv"
-  R:
+  R packages:
     - fertestr: "fertestr_package"
+    - datatoolsbr: "https://github.com/josehcms/datatoolsbr"
+  Projects:
+    - Master Thesis: "https://github.com/josehcms/msthesis-article"
+    - Rural-Urban Health and Mortality Differentials: "https://github.com/josehcms/UrbRurMortHealthBR2010-2013"
+    
   #  - Learn markdown: "http://www.markdowntutorial.com/"
   # Author's home: "http://deanattali.com"
 
@@ -72,7 +77,7 @@ social-network-links:
   email: "zecosta.monteiro@gmail.com"
   #facebook: deanattali
   github: josehcms
-  twitter: zehcms
+  twitter: josehcms
 #  reddit: yourname
   linkedin: zecosta-ms
 #  xing: yourname
