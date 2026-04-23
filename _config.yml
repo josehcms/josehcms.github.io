@@ -1,6 +1,8 @@
 title: "José H C Monteiro da Silva"
 author: "José H C Monteiro da Silva"
 description: "University of Pennsylvania   |   josehcms@sas.upenn.edu"
+baseurl: ""
+url: "https://josehcms.github.io"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
