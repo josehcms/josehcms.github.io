@@ -21,11 +21,21 @@ show_minimal: false             # remove all clutter
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md",title: "About Me"}
-  - {file: "/_research/research.md", title: "Research"}
-  - {file: "/_teaching/teaching.md", title: "Teaching"}
-  - {file: "/_posts/blog.md", title: "Demographic Thoughts"}
-  - {file: "/_cv/cv.md", title: "CV"}
+  - {file: "_research/research.md", title: "Research"}
+  - {file: "_teaching/teaching.md", title: "Teaching"}
+  - {file: "_posts/blog.md", title: "Demographic Thoughts"}
+  - {file: "_cv/cv.md", title: "CV"}
 
+collections:
+  research:
+    output: true
+  teaching:
+    output: true
+  posts:
+    output: true
+  cv:
+    output: true
+    
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:josehcms@sas.upenn.edu"}
   - {title: Github, icon: github, url: "https://github.com/josehcms"}
