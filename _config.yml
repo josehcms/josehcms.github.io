@@ -1,6 +1,6 @@
 title: "José H C Monteiro da Silva"
-author: ""
-description: ""
+author: "José H C Monteiro da Silva"
+description: "University of Pennsylvania   |   josehcms@sas.upenn.edu"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,9 +17,12 @@ show_minimal: false             # remove all clutter
 
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
-navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", sidebaricon: home}
-  - {file: "README.md", sidebaricon: address-card}
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.md",title: "About Me"}
+  - {file: "_research/research.md", title: "Research"}
+  - {file: "_teaching/teaching.md", title: "Teaching"}
+  - {file: "_posts/blog.md", title: "Demographic Thoughts"}
+  - {file: "_cv/cv.md", title: "CV"}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:josehcms@sas.upenn.edu"}
